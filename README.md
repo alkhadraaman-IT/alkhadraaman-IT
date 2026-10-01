@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+a+Mobile+Developer;Flutter+Developer+%F0%9F%93%B1;Building+Scalable+Apps+with+BLoC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+a+Mobile+Developer;Flutter+Developer+%F0%9F%93%B1;Building+Modern+%26+Scalable+Apps" alt="Typing SVG" />
 </div>
 
 ---
@@ -37,16 +37,8 @@
     </td>
     <td width="50%">
       <h3>📝 TaskFlow</h3>
-      <p>تطبيق إدارة مهام (To-Do App) متكامل وحديث مدعوم بـ Open Code AI.</p>
-      <p><b>التقنيات:</b> Flutter, Firebase, Auth, Notifications, Localization, Theme.</p>
-      <a href="https://github.com/alkhadraaman-IT/toDoApp">رابط المشروع 🔗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" colspan="2" align="center">
-      <h3>⚡ TaskFlow BLoC</h3>
-      <p>نسخة متقدمة من تطبيق إدارة المهام مع التركيز على هندسة الكود وإدارة الحالة الاحترافية.</p>
-      <p><b>التقنيات:</b> Flutter, BLoC Architecture, Clean State Management, CRUD Operations.</p>
+      <p>تطبيق إدارة مهام (To-Do App) متكامل وحديث مدعوم بـ BLoC، تم تطويره بالاستعانة بـ Open Code AI.</p>
+      <p><b>التقنيات:</b> Flutter, Firebase, BLoC, Auth, Notifications, Localization, Theme, Search.</p>
       <a href="https://github.com/alkhadraaman-IT/toDoApp">رابط المشروع 🔗</a>
     </td>
   </tr>
@@ -65,6 +57,6 @@
 ### 📬 تواصل معي (Let's Connect)
 
 <p align="center">
-  <a href="[(https://www.linkedin.com/in/aman-alkhadra)]"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aman-alkhadra"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Alkhadraaman@gmail.com "><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
