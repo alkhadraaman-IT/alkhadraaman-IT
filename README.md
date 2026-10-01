@@ -33,13 +33,13 @@
       <p>تطبيق خدمات يجمع الحرفيين بالمستخدمين لتسهيل طلب وحجز الخدمات.</p>
       <p><b>التقنيات:</b> MVVM, Riverpod, Session, Search, Cart.</p>
       <p>✨ <em>مبرمج 100% يدوياً بدون أي أدوات ذكاء اصطناعي.</em></p>
-      <a href="https://github.com/YourUsername/FixNow">رابط المشروع 🔗</a>
+      <a href="https://github.com/alkhadraaman-IT/FixNow">رابط المشروع 🔗</a>
     </td>
     <td width="50%">
       <h3>📝 TaskFlow</h3>
       <p>تطبيق إدارة مهام (To-Do App) متكامل وحديث مدعوم بـ Open Code AI.</p>
       <p><b>التقنيات:</b> Flutter, Firebase, Auth, Notifications, Localization, Theme.</p>
-      <a href="https://github.com/YourUsername/TaskFlow">رابط المشروع 🔗</a>
+      <a href="https://github.com/alkhadraaman-IT/toDoApp">رابط المشروع 🔗</a>
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
       <h3>⚡ TaskFlow BLoC</h3>
       <p>نسخة متقدمة من تطبيق إدارة المهام مع التركيز على هندسة الكود وإدارة الحالة الاحترافية.</p>
       <p><b>التقنيات:</b> Flutter, BLoC Architecture, Clean State Management, CRUD Operations.</p>
-      <a href="https://github.com/YourUsername/TaskFlow-BLoC">رابط المشروع 🔗</a>
+      <a href="https://github.com/alkhadraaman-IT/toDoApp">رابط المشروع 🔗</a>
     </td>
   </tr>
 </table>
